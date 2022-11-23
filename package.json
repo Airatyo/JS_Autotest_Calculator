@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "expect": "^29.3.1",
+    "expect-puppeteer": "^6.1.1",
+    "puppeteer": "^19.2.2"
+  }
+}
